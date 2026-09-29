@@ -4,4 +4,4 @@ Annotation guide for Romanian Inverse Text Normalization (ITN), used to annotate
 
 The guide explains how spoken-form text is converted into written form.
 
-📄 **[Read the guide]([Annotation_Guide_RO](https://github.com/RoITN/annotation-guide/blob/main/Annotation_Guide_RO.pdf))**
+📄 **[Read the guide](https://github.com/RoITN/annotation-guide/blob/main/Annotation_Guide_RO.pdf)**
